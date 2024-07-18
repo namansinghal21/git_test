@@ -1,1 +1,2 @@
-
+Hello! I'm modifying this text file to get to know how staging, commit, and pushing works on Git!
+The date today is 18 July, 2024.
